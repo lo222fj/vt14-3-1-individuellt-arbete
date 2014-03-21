@@ -1,0 +1,25 @@
+﻿body {
+    padding: 2em 0 2em 0;
+    border:double 0.2em #180e70;
+    border-radius: 0.5em 0.5em;
+        color: #180e70;
+}
+#content {
+    width: 960px;
+    margin: auto;
+}
+
+#mainHeader {
+    font-size: 2em;
+    font-style: italic;
+    border-bottom: double 0.2em #180e70;
+}
+
+th {
+    text-align:left;
+    color: #fff;
+    background-color: #180e70;
+}
+td, th {
+    padding: 0.2em 0.5em 0.2em 0.2em;
+}
